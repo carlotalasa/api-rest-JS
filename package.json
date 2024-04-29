@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlotalasa/api-rest-JS.git"
+  },
+  "author": "carlotalasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlotalasa/api-rest-JS/issues"
+  },
+  "homepage": "https://github.com/carlotalasa/api-rest-JS#readme"
+}
